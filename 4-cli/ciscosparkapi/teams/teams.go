@@ -1,11 +1,12 @@
 package teams
 
 import (
-	"cleur-barcelona-2018/cli/ciscosparkapi/constants"
-	"cleur-barcelona-2018/cli/ciscosparkapi/general"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+
+	"github.com/ObjectIsAdvantag/CLEUR-1814/4-cli/ciscosparkapi/constants"
+	"github.com/ObjectIsAdvantag/CLEUR-1814/4-cli/ciscosparkapi/general"
 )
 
 type CreateResponse struct {

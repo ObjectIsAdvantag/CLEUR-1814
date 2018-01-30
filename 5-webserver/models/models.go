@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"strings"
 
-	"cleur-barcelona-2018/web/ciscolive.service.content/utils"
+	"github.com/ObjectIsAdvantag/CLEUR-1814/5-webserver/utils"
 
 	"github.com/valyala/fasthttp"
 )

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"cleur-barcelona-2018/web/ciscolive.service.content/controllers"
+	"github.com/ObjectIsAdvantag/CLEUR-1814/5-webserver/controllers"
 	"github.com/buaazp/fasthttprouter"
 )
 

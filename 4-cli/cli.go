@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"cleur-barcelona-2018/cli/commands"
+	"github.com/ObjectIsAdvantag/CLEUR-1814/4-cli/commands"
 
 	"github.com/urfave/cli"
 )

@@ -1,9 +1,8 @@
 package controllers
 
 import (
-	"cleur-barcelona-2018/web/ciscolive.service.content/utils"
-
-	"cleur-barcelona-2018/web/ciscolive.service.content/models"
+	"github.com/ObjectIsAdvantag/CLEUR-1814/5-webserver/models"
+	"github.com/ObjectIsAdvantag/CLEUR-1814/5-webserver/utils"
 	"github.com/valyala/fasthttp"
 )
 

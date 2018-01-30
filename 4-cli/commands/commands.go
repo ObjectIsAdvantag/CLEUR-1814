@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"cleur-barcelona-2018/cli/ciscosparkapi/teams"
-
+	"github.com/ObjectIsAdvantag/CLEUR-1814/4-cli/ciscosparkapi/teams"
 	"github.com/urfave/cli"
 )
 
