@@ -1,6 +1,6 @@
 FROM golang:latest
 
-COPY constants/secrets.yml /go/src/cleur-barcelona-2018/web/ciscolive.service.content/constants/secrets.yml
+COPY constants/secrets.yml /go/src/github.com/ObjectIsAdvantag/CLEUR-1814/5-webserver/constants/secrets.yml
 COPY microservice/main.linux /usr/local/bin/ciscolive.service.content
 COPY entrypoint.sh /
 

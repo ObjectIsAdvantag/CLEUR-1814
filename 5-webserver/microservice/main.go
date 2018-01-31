@@ -6,7 +6,6 @@ import (
 
 	"github.com/ObjectIsAdvantag/CLEUR-1814/5-webserver/routes"
 	"github.com/ObjectIsAdvantag/CLEUR-1814/5-webserver/utils"
-
 	"github.com/buaazp/fasthttprouter"
 	"github.com/valyala/fasthttp"
 )

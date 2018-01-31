@@ -1,9 +1,9 @@
-docker run --network=isolated_broker_nw                  \
+docker run                                               \
         --restart=always                                 \
         --hostname                                       \
         "ciscolive-service-content"                      \
         --name "ciscolive.service.content"               \
-        -p "9876:8080"                                   \
+        -p "8888:80"                                     \
         -d                                               \
         ciscolive.service.content:latest       
 exit $?
